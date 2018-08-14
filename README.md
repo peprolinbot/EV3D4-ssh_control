@@ -21,6 +21,7 @@ Then of build your robot and install ev3dev, you need to install the program:
  2. Then, clone the repository: `git clone https://github.com/peprolinbot/EV3D4-ssh_control`
  3. Go into the directory you recently downloaded:`cd EV3D4-ssh_control`
  4. Run the script, `pyhton3 conbot.py`,and wait for it says *"LOG"*
+ 
  Here you have the function of all the keys(this list is thinked for view from back or from a camera, like a mobile phone):
 
 |KEY|FUNCTION|
