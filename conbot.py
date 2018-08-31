@@ -28,7 +28,7 @@ def cabezaizquierda():
    motor_a.run_forever(speed_sp=-450)
 
 def marchaimp():
-   subprocess.call(['python3', '/home/robot/marchaImperial'])   
+   subprocess.call(['python3', 'marchaImperial'])   
 #==============================================
 
 def fire():
